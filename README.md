@@ -1,6 +1,6 @@
 # Notice
 Notice.html
-
+<!-- Notice by: Kisaragi
 <table border="0" cellpadding="0"  cellspacing="1" style="border:solid blue 1px">
 	  <tr>
 	    <td bgcolor="blue" height="18" style="color:#FFFFFF"><center><b>NEWS</b></center></td>
